@@ -20,7 +20,7 @@ Currently at LITH Africa, we are also incorporating Natural Language Processing 
 
 ## Contacts
 
-- [Email Me](lindiwemutungamiri23@gmail.com)
+- Email: lindiwemutungamiri23@gmail.com
 
 - [LinkedIn](https://www.linkedin.com/in/lindiwe-mutungamiri-26a20a172/).
 
