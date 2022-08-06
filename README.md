@@ -10,6 +10,8 @@ When she is not trying to find innovative ways to solve problems, she can be fou
 
 Here are some of the projects I have worked on.
 
+- See [LITH Africa](https://www.lithafrica.com/) to see her work in **Artificial Intelligence** and **Machine Learning**.
+
 ```markdown
 - See [LITH Africa](https://www.lithafrica.com/) to see her work in **Artificial Intelligence** and **Machine Learning**.
 
