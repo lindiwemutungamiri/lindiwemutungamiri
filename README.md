@@ -30,4 +30,4 @@ Currently at LITH Africa, we are also incorporating Natural Language Processing 
 
 - [Instagram](https://www.instagram.com/being_lindiwe/).
 
-You can also see all the other projects I have worked on here on Github.
+# Other Projects
