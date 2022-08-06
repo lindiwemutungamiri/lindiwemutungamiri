@@ -11,31 +11,15 @@ When she is not trying to find innovative ways to solve problems, she can be fou
 Here are some of the projects I have worked on.
 
 ```markdown
-See [LITH Africa](https://www.lithafrica.com/) to see her work in Artificial Intelligence and Machine Learning.
+- See [LITH Africa](https://www.lithafrica.com/) to see her work in **Artificial Intelligence** and **Machine Learning**.
 
-# Header 1
+### Contact
 
-## Header 2
+- [LinkedIn](https://www.linkedin.com/in/lindiwe-mutungamiri-26a20a172/).
 
-### Header 3
+- [Facebook](https://web.facebook.com/lindiwe.mutungamiri/).
 
-- Bulleted
-- List
+- [Twitter](https://mobile.twitter.com/linlykah/).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- [Instagram](https://www.instagram.com/being_lindiwe/).
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lindiwemutungamiri/lindiwemutungamiri/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
